@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Natillera</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_usuarios">Usuarios</string>
+    <string name="title_activity_prestamos">Prestamos</string>
+    <string name="title_activity_control_pagos">ControlPagos</string>
+    <string name="title_activity_listado">Listado</string>
+</resources>
